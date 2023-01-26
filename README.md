@@ -17,8 +17,8 @@ Add the coding and end the program.
 ## Program:
 ```
 #Program to find the eigen values and eigen vectors.
-#Developed by: kamali.E
-#RegisterNumber:22004796
+#Developed by: kamalesh.E
+#RegisterNumber:22004792
 import numpy as np
 A=np.array([[-2,2,-3],[2,1,-6],[-1,-2,0]])
 b,c=np.linalg.eig(A)
